@@ -1,0 +1,46 @@
+
+---Downloaded files---
+The import files for: Demo 4 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://www.nvamortgage.com.dream.website
+Data file = /home/dh_ahdbgd/nvamortgage.com/wp-content/uploads/2021/06/demo-content-import-file_2021-06-25__06-57-43.xml
+Widget file = /home/dh_ahdbgd/nvamortgage.com/wp-content/uploads/2021/06/demo-widgets-import-file_2021-06-25__06-57-43.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Leverage Widget - No Title - Imported
+Categories - Categories - Imported
+Tag Cloud - Popular Tags - Imported
+Leverage Widget - No Title - Imported
+Gallery - Image Gallery - Imported
+
+Page Sidebar : 
+
+Leverage Widget - No Title - Imported
+Leverage Widget - No Title - Imported
+
+
+
+---ocdi/after_import---
+

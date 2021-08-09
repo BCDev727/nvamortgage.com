@@ -1,0 +1,83 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Add your CSS code here.
+
+For example:
+.example {
+    color: red;
+}
+
+For brushing up on your CSS knowledge, check out http://www.w3schools.com/css/css_syntax.asp
+
+End of comment */ 
+
+.quick-loan .form-col-3 {
+    padding-left: 0px !important;
+}
+.glossary_accrodian .elementor-accordion .elementor-tab-title{
+  line-height:32px !important;
+}
+.loan_btn a:hover {
+    width: auto !important;
+}
+.about_sidd_menu.side-menu li:nth-child(4) {
+    display: none !important;
+}
+.wpcf7 form .wpcf7-response-output{
+  margin:10px 0px;
+}
+.she-header {
+/*     border-bottom: 2px solid #c5c5c5 !important; */
+   -moz-box-shadow: 0 0 8px 0 rgba(0,0,0,.4);
+    -webkit-box-shadow: 0 0 8px 0 rgb(0 0 0 / 40%);
+    box-shadow: 0 0 8px 0 rgb(0 0 0 / 40%);
+}
+.elementor-accordion .elementor-tab-title{
+  line-height:30px;
+}
+@media only screen and (max-width: 991px)
+{
+  .captchar-box .form-col-6.set_code_btn {
+    width: 100% !important;
+    margin-bottom: 10px;
+    padding-right: 0px;
+  }
+  .form-col-6 {
+    width: 100% !important;
+  }
+  .captchar-box .form-col-6{
+    padding-left:0px !important;
+    padding-right:0px !important;
+  }
+}
+
+@media only screen and (max-width: 767px){
+  .quick-loan .cap-img {
+      padding-top: 7px !important;
+  }
+  .ic-box .elementor-icon-box-wrapper{
+    display:block !important;
+  }
+  .ic-box .elementor-icon-box-wrapper .elementor-icon-box-icon{
+    padding-right: 0px !important;
+  }
+  .form-row .form-col-12{
+/*     padding-right: 0px !important; */
+  }
+  .cap-img {
+    width:100% !important;
+  }
+}
+
+@media only screen and (max-width: 575px)
+{
+  body .form-control.captchar-box {
+    display: flex !important;
+  }
+  .form-row .form-col-6{
+/*    	 padding-right:0px !important; */
+   }
+}
+
+</style>
+<!-- end Simple Custom CSS and JS -->
